@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "skills": {
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1775548111816
+    },
+    "porteden-email": {
+      "version": "1.0.4",
+      "installedAt": 1775548124666
+    },
+    "macos-calendar": {
+      "version": "1.2.0",
+      "installedAt": 1775548137159
+    },
+    "twitter-post": {
+      "version": "1.0.0",
+      "installedAt": 1775548144620
+    },
+    "baidu-hot-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1775548151851
+    },
+    "fanqie": {
+      "version": "0.1.0",
+      "installedAt": 1775548170618
+    },
+    "lark-calendar": {
+      "version": "1.0.0",
+      "installedAt": 1775548184127
+    },
+    "focus-break-reminder": {
+      "version": "1.0.0",
+      "installedAt": 1775548208846
+    },
+    "news-aggregator": {
+      "version": "1.0.3",
+      "installedAt": 1775548221943
+    },
+    "find-skills-skill": {
+      "version": "1.0.0",
+      "installedAt": 1775549709259
+    },
+    "openclaw-tavily-search": {
+      "version": "0.1.0",
+      "installedAt": 1775549709265
+    },
+    "ws-agent-browser": {
+      "version": "1.0.0",
+      "installedAt": 1775549709528
+    },
+    "skill-vetter": {
+      "version": "1.0.0",
+      "installedAt": 1775549720037
+    },
+    "jx76-gog": {
+      "version": "1.0.1",
+      "installedAt": 1775549720071
+    },
+    "self-improving": {
+      "version": "1.2.16",
+      "installedAt": 1775549720438
+    },
+    "summarize-pro": {
+      "version": "1.0.0",
+      "installedAt": 1775549720451
+    },
+    "proactive-agent-lite": {
+      "version": "1.0.0",
+      "installedAt": 1775549720600
+    },
+    "taobao-review-analyzer": {
+      "version": "1.0.0",
+      "installedAt": 1775563954477
+    },
+    "taobao-price-monitor": {
+      "version": "1.0.0",
+      "installedAt": 1775563991020
+    },
+    "taobao-query": {
+      "version": "1.0.0",
+      "installedAt": 1775564311388
+    },
+    "microsoft-outlook": {
+      "version": "1.0.2",
+      "installedAt": 1775602539555
+    },
+    "outlook-api": {
+      "version": "1.0.3",
+      "installedAt": 1775602540094
+    },
+    "gmail": {
+      "version": "1.0.6",
+      "installedAt": 1775603194972
+    }
+  }
+}
