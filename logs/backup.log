@@ -560,3 +560,59 @@ To https://github.com/cloudnetworkingau-blip/openclaw-cloud-bot.git
  ! [remote rejected] main -> main (push declined due to repository rule violations)
 error: failed to push some refs to 'https://github.com/cloudnetworkingau-blip/openclaw-cloud-bot.git'
 Backup completed at Thu Apr 23 02:11:18 AM UTC 2026
+[main 9970605] Daily backup: 2026-04-24 02:00 UTC
+ 1 file changed, 56 insertions(+)
+remote: error: GH013: Repository rule violations found for refs/heads/main.        
+remote: 
+remote: - GITHUB PUSH PROTECTION        
+remote:   —————————————————————————————————————————        
+remote:     Resolve the following violations before pushing again        
+remote: 
+remote:     - Push cannot contain secrets        
+remote: 
+remote:             
+remote:      (?) Learn how to resolve a blocked push        
+remote:      https://docs.github.com/code-security/secret-scanning/working-with-secret-scanning-and-push-protection/working-with-push-protection-from-the-command-line#resolving-a-blocked-push        
+remote:             
+remote:             
+remote:       —— Google OAuth Client ID ————————————————————————————        
+remote:        locations:        
+remote:          - commit: fa82f46f93f1f9eed8117c0f5f9663ac1237b7f0        
+remote:            path: credentials/gmail_oauth.json:2        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/cloudnetworkingau-blip/openclaw-cloud-bot/security/secret-scanning/unblock-secret/3CjsO6CFVUp5c1B5A67gVMWGTwd        
+remote:             
+remote:             
+remote:       —— Google OAuth Client Secret ————————————————————————        
+remote:        locations:        
+remote:          - commit: fa82f46f93f1f9eed8117c0f5f9663ac1237b7f0        
+remote:            path: credentials/gmail_oauth.json:3        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/cloudnetworkingau-blip/openclaw-cloud-bot/security/secret-scanning/unblock-secret/3CjsO7mVDOe6bm02gUWTaSQGbSX        
+remote:             
+remote:             
+remote:       —— Google OAuth Refresh Token ————————————————————————        
+remote:        locations:        
+remote:          - commit: fa82f46f93f1f9eed8117c0f5f9663ac1237b7f0        
+remote:            path: credentials/gmail_oauth.json:4        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/cloudnetworkingau-blip/openclaw-cloud-bot/security/secret-scanning/unblock-secret/3CjsO8I18zLKjO5Udga6jC1RKUV        
+remote:             
+remote:             
+remote:       —— Google OAuth Access Token —————————————————————————        
+remote:        locations:        
+remote:          - commit: fa82f46f93f1f9eed8117c0f5f9663ac1237b7f0        
+remote:            path: credentials/gmail_oauth.json:5        
+remote:             
+remote:        (?) To push, remove secret from commit(s) or follow this URL to allow the secret.        
+remote:        https://github.com/cloudnetworkingau-blip/openclaw-cloud-bot/security/secret-scanning/unblock-secret/3CjsOBlRQl4oZUsLvW24uMcHPM4        
+remote:             
+remote: 
+remote: 
+To https://github.com/cloudnetworkingau-blip/openclaw-cloud-bot.git
+ ! [remote rejected] main -> main (push declined due to repository rule violations)
+error: failed to push some refs to 'https://github.com/cloudnetworkingau-blip/openclaw-cloud-bot.git'
+Backup completed at Fri Apr 24 02:00:03 AM UTC 2026
