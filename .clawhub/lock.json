@@ -92,6 +92,14 @@
     "gmail": {
       "version": "1.0.6",
       "installedAt": 1775603194972
+    },
+    "self-evolving": {
+      "version": "1.0.0",
+      "installedAt": 1777640753799
+    },
+    "mem0": {
+      "version": "1.0.0",
+      "installedAt": 1777641052376
     }
   }
 }
